@@ -9,4 +9,6 @@ the usage fo the platform, across various parts of the country.
 >Libraries: Pandas, Matplotlib
 >IDE: Jupyter Notebook
 
-Data Source: 
+Data Source: https://github.com/RohanPol2182/Game-Platform-Data-Analysis/blob/main/Stake%20Platform%20users%20Data%20-%20Turkey.csv
+
+
