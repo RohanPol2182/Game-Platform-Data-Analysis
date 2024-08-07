@@ -30,7 +30,7 @@ DEPOSIT DATE = The date of the first deposit made by the registered customer
 
 > Find the city & country with the highest number of unique customers.
 
-> Find the unique count of players in each country.
+> Find the unique count of players in each city.
 
 > Calculate the time period in days for which the customer was active (days from first deposit date) and enter the value in a new column titled 'Customer Lifetime'.
 
